@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enndingsdirektiv"
+    id="id-b44d3dc9806346bcb57834b78582599f">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-680f72b076a9490d8cb434bba06f833f.xml#id-680f72b076a9490d8cb434bba06f833f"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-e44483aa4f1c4037a07f0349568004b2.xml#id-e44483aa4f1c4037a07f0349568004b2"/>
+</archimate:AssociationRelationship>

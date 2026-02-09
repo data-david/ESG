@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppslag på heftelser motorvogn"
+    id="id-45ee29efe622461dbeec2726ae2aab9d">
+  <properties
+      key="Status"
+      value="Erstattes"/>
+</archimate:BusinessService>
