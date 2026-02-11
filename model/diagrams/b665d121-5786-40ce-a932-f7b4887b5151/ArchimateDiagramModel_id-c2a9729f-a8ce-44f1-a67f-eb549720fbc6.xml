@@ -190,41 +190,12 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-bd825140-860f-4acc-9e27-a4c832c62cff"
-      targetConnections="id-e232f34e-1d89-48d8-894b-8202ba04ff97"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ccccff">
-    <bounds
-        x="410"
-        y="486"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-6ac2547d-62a2-4a02-a442-dc0ec384fe0e.xml#id-6ac2547d-62a2-4a02-a442-dc0ec384fe0e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bfe0fab8-3e1b-42d4-b2ec-6bcb406800ae"
       targetConnections="id-ed7c1061-6d4e-4123-b7ca-c808f3f172e1"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e232f34e-1d89-48d8-894b-8202ba04ff97"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-bfe0fab8-3e1b-42d4-b2ec-6bcb406800ae"
-        target="id-bd825140-860f-4acc-9e27-a4c832c62cff">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-cfbdcd99-efc3-4377-94e4-1570337e2d35.xml#id-cfbdcd99-efc3-4377-94e4-1570337e2d35"/>
-    </sourceConnections>
     <bounds
         x="268"
         y="486"
