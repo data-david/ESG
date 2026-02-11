@@ -30,15 +30,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="44c448b8-6ce4-49c3-aff7-bd6097133f1b">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="a6582e5a-77c8-4202-b639-715bc67bb07c"
-        source="44c448b8-6ce4-49c3-aff7-bd6097133f1b"
-        target="f1bb6bcc-4583-4bad-9953-e1ce650913c1">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_763d39af-a643-4c19-9c27-3ed8958c2530.xml#763d39af-a643-4c19-9c27-3ed8958c2530"/>
-    </sourceConnections>
     <bounds
         x="59"
         y="246"
@@ -47,102 +38,5 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_1fecfdd9-f33b-4a0c-bcc9-91b14de2b839.xml#1fecfdd9-f33b-4a0c-bcc9-91b14de2b839"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="9a1b967f-1d80-4051-aed0-6fe032ee1c55">
-    <bounds
-        x="330"
-        y="282"
-        width="185"
-        height="42"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_9244b9a4-e692-4c66-9094-1e9c05a2d051.xml#9244b9a4-e692-4c66-9094-1e9c05a2d051"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="61c1b5de-8cd1-4b1f-9744-1b7ffdc955e8">
-    <bounds
-        x="330"
-        y="208"
-        width="185"
-        height="39"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_a15aa9f4-6b50-4ae8-a0d8-06021ac3684f.xml#a15aa9f4-6b50-4ae8-a0d8-06021ac3684f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="f1bb6bcc-4583-4bad-9953-e1ce650913c1"
-      targetConnections="a6582e5a-77c8-4202-b639-715bc67bb07c">
-    <bounds
-        x="330"
-        y="246"
-        width="185"
-        height="37"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_4755e0ba-7c8a-4dd1-b54d-3ddf7201c5f4.xml#4755e0ba-7c8a-4dd1-b54d-3ddf7201c5f4"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="4f5419f9-2147-434b-bbc5-a166cd02e177">
-    <bounds
-        x="333"
-        y="364"
-        width="180"
-        height="37"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_3e11e439-e7e5-4e3d-9718-a9abd1261bdb.xml#3e11e439-e7e5-4e3d-9718-a9abd1261bdb"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="d83e45a0-29df-4d80-98b4-6f125e7ee6cb">
-    <bounds
-        x="333"
-        y="400"
-        width="180"
-        height="39"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_61d5a915-11c6-4336-bab7-4799e897ac16.xml#61d5a915-11c6-4336-bab7-4799e897ac16"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="f597ddd8-32b8-4ffb-890b-2d6c95790a22">
-    <bounds
-        x="333"
-        y="476"
-        width="180"
-        height="29"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_d9bbf1fd-2602-4f73-8707-27b96cef2ed3.xml#d9bbf1fd-2602-4f73-8707-27b96cef2ed3"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="b4a5ee30-d361-4031-b8c4-6e3182d8c233">
-    <bounds
-        x="333"
-        y="323"
-        width="180"
-        height="42"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_83c2bbb5-5e59-40fc-86eb-d5aa16dc6712.xml#83c2bbb5-5e59-40fc-86eb-d5aa16dc6712"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="1ceaf0d3-c185-480a-9bd0-f5c6cde483c3">
-    <bounds
-        x="333"
-        y="438"
-        width="180"
-        height="39"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_c2577cc6-1863-4e67-be53-216571faf74d.xml#c2577cc6-1863-4e67-be53-216571faf74d"/>
   </children>
 </archimate:ArchimateDiagramModel>

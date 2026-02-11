@@ -72,22 +72,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1dfebd24-0b1b-4eed-b3d0-f26fdb9085a5"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#f5deaa">
-    <bounds
-        x="192"
-        y="126"
-        width="169"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_id-0d5c5ec4-7e4b-430a-bd99-6ec21bdb7d4d.xml#id-0d5c5ec4-7e4b-430a-bd99-6ec21bdb7d4d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4b8446dc-c446-4002-b83d-93aaa38e80d9"
       targetConnections="id-75624b0c-634d-478f-b009-a66dc4f796eb"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
@@ -367,22 +351,6 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-94e2d0d3-04c5-433a-a446-9ab45b76cb55.xml#id-94e2d0d3-04c5-433a-a446-9ab45b76cb55"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-64458955-a8ac-4586-8c29-390ce304cadc"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#f5deaa">
-    <bounds
-        x="192"
-        y="67"
-        width="169"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_id-59465211-3043-48fa-8558-71127a87418d.xml#id-59465211-3043-48fa-8558-71127a87418d"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -887,21 +855,5 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-db274f5e-29d9-42bc-82d1-6d0e214948e4.xml#id-db274f5e-29d9-42bc-82d1-6d0e214948e4"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e24c6270-fbc2-4166-8c37-69201067ab0d"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#f5deaa">
-    <bounds
-        x="192"
-        y="3"
-        width="169"
-        height="58"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_id-fe441e15-6e20-4a25-be8b-2842baa14265.xml#id-fe441e15-6e20-4a25-be8b-2842baa14265"/>
   </children>
 </archimate:ArchimateDiagramModel>

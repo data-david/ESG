@@ -624,18 +624,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-fa1acf2474c14d7194b2280f89a1d99f">
-    <bounds
-        x="372"
-        y="-189"
-        width="685"
-        height="46"/>
-    <archimateElement
-        xsi:type="archimate:ValueStream"
-        href="ValueStream_id-5644eb00629d4418b1b6c26847a69795.xml#id-5644eb00629d4418b1b6c26847a69795"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6b99bcb592de463786cdc941224d0a11">
     <bounds
         x="923"
@@ -1285,30 +1273,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-c9dcd44cd5c24659a273424fc0096830">
-    <bounds
-        x="1068"
-        y="-189"
-        width="287"
-        height="46"/>
-    <archimateElement
-        xsi:type="archimate:ValueStream"
-        href="ValueStream_id-c1de617722f645be9dbfed2940840808.xml#id-c1de617722f645be9dbfed2940840808"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-974ba8330f944420babcc5062eecc70d">
-    <bounds
-        x="1368"
-        y="-189"
-        width="661"
-        height="46"/>
-    <archimateElement
-        xsi:type="archimate:ValueStream"
-        href="ValueStream_id-e8bdde182bf0442e83c61ae217e92eaa.xml#id-e8bdde182bf0442e83c61ae217e92eaa"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7321562e7acd48a3ac6155da2af4ac8a">
     <bounds
         x="2040"
@@ -1318,17 +1282,5 @@
     <archimateElement
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_id-b3ca6486972947d691f5b8214b1970bb.xml#id-b3ca6486972947d691f5b8214b1970bb"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1a2de5099fb14457ac20ff5d5ea9a454">
-    <bounds
-        x="2040"
-        y="-189"
-        width="158"
-        height="46"/>
-    <archimateElement
-        xsi:type="archimate:ValueStream"
-        href="ValueStream_id-865c0398c3c148d18c91c1bca9cdec72.xml#id-865c0398c3c148d18c91c1bca9cdec72"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -5,42 +5,6 @@
     id="1bdc0081-c566-4f55-a147-f68b48fec450">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="d778c71d-6490-462e-9403-8cb41de16bea"
-      textAlignment="1"
-      type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="499964b0-92ba-4ac3-97ec-6f87af6286b9"
-        source="d778c71d-6490-462e-9403-8cb41de16bea"
-        target="f8b88ea9-c487-41ae-b23d-8b603b5f9a1a">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_84fccc90-a0ec-4af2-b925-038a4a107db8.xml#84fccc90-a0ec-4af2-b925-038a4a107db8"/>
-    </sourceConnections>
-    <bounds
-        x="72"
-        y="528"
-        width="205"
-        height="97"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="f8b88ea9-c487-41ae-b23d-8b603b5f9a1a"
-        targetConnections="499964b0-92ba-4ac3-97ec-6f87af6286b9"
-        fillColor="#ffffff">
-      <bounds
-          y="36"
-          width="205"
-          height="49"/>
-      <archimateElement
-          xsi:type="archimate:BusinessService"
-          href="BusinessService_3a91a5ed-0562-432f-9143-74668023a046.xml#3a91a5ed-0562-432f-9143-74668023a046"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_31a60498-3ffd-41f9-ba6a-12cab670e6a9.xml#31a60498-3ffd-41f9-ba6a-12cab670e6a9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="af6a51cf-8a25-4c01-a04d-0cdff3944e1f"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"

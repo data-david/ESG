@@ -21,22 +21,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="815a8f71-b238-4f99-b427-e49b6b13492d"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#f5deaa">
-    <bounds
-        x="73"
-        y="960"
-        width="209"
-        height="58"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_id-99007ced-3b4f-4168-9f2c-73fccf21e7b8.xml#id-99007ced-3b4f-4168-9f2c-73fccf21e7b8"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="3ec23d79-ed8c-47d7-bb0b-063c7e79b4ae"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
@@ -105,20 +89,6 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-853791ec-4bd5-43f5-9a7a-6197e1851d8d.xml#id-853791ec-4bd5-43f5-9a7a-6197e1851d8d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="f6ad62fa-79e9-411b-9d81-891e2fd1d3ac"
-      textAlignment="1"
-      type="1">
-    <bounds
-        x="75"
-        y="675"
-        width="205"
-        height="97"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_31a60498-3ffd-41f9-ba6a-12cab670e6a9.xml#31a60498-3ffd-41f9-ba6a-12cab670e6a9"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

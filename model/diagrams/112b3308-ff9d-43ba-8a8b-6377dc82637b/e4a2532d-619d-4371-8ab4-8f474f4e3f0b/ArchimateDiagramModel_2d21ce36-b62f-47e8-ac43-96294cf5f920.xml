@@ -92,25 +92,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5de4029b-d42e-4e89-853e-03ef02208098">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c7b53f67-a474-4158-8921-f211340f79e3"
-        source="5de4029b-d42e-4e89-853e-03ef02208098"
-        target="16819f6d-43db-42dc-8827-a9cf0ab10523">
-      <bendpoints
-          startX="145"
-          startY="-1"
-          endX="145"
-          endY="-435"/>
-      <bendpoints
-          startX="145"
-          startY="431"
-          endX="145"
-          endY="-3"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_ba99c683-0f92-49c3-9e98-4e7cfaf9d3f5.xml#ba99c683-0f92-49c3-9e98-4e7cfaf9d3f5"/>
-    </sourceConnections>
     <bounds
         x="72"
         y="480"
@@ -210,19 +191,6 @@
         y="672"
         width="35"
         height="27"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="16819f6d-43db-42dc-8827-a9cf0ab10523"
-      targetConnections="c7b53f67-a474-4158-8921-f211340f79e3">
-    <bounds
-        x="72"
-        y="974"
-        width="210"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_e3622700-9541-45de-8686-8ffa25d0df3c.xml#e3622700-9541-45de-8686-8ffa25d0df3c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
