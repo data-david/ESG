@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.1.1 Innhente strukturerte data"
+    id="id-a0ec2fe3fc7a4bdb91efded88891f11c"
+    documentation="Innhente strukturert data; det vil si alt fra innsending av data til at vi henter data der de oppstår i de tilfeller det er mulig."/>

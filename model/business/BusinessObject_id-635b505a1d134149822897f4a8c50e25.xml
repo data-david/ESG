@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="totalbestand intet til utlegg/utleggstrekk (f.nr/d-nummer/org.nr)"
+    id="id-635b505a1d134149822897f4a8c50e25"
+    documentation="Api for totalbestand på intet til utlegg/utleggstrekk i Løsøreregisteret på fødselsnummer/d-nummer/organisasjonsnummer for kredittopplysningsforetak. Man gjør oppslag på tidspunkt, 1000 treff per side.&#xA;Produktnummer: 10008"/>

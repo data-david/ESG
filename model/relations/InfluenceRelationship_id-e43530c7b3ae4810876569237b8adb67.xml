@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="endringsdirektiv"
+    id="id-e43530c7b3ae4810876569237b8adb67">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-88ddd1b33185413284405c12cfb40c98.xml#id-88ddd1b33185413284405c12cfb40c98"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-e44483aa4f1c4037a07f0349568004b2.xml#id-e44483aa4f1c4037a07f0349568004b2"/>
+</archimate:InfluenceRelationship>
