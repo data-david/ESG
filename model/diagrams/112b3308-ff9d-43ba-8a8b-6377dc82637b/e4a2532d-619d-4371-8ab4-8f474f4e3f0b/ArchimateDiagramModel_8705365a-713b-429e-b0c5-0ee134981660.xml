@@ -172,25 +172,6 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#fef729">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="33a372f8-bc03-4a5f-8c88-1d0e27d0641c"
-        source="844830f6-0aa2-47e0-98b0-6992e1de1ff6"
-        target="e6529c20-bc16-41ff-94c2-263d019ef0cc">
-      <bendpoints
-          startX="162"
-          startY="-3"
-          endX="161"
-          endY="-520"/>
-      <bendpoints
-          startX="162"
-          startY="513"
-          endX="161"
-          endY="-4"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-5e264282-37da-4002-81a7-d38a15c161a2.xml#id-5e264282-37da-4002-81a7-d38a15c161a2"/>
-    </sourceConnections>
     <bounds
         x="145"
         y="383"
@@ -244,33 +225,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="e6529c20-bc16-41ff-94c2-263d019ef0cc"
-      targetConnections="33a372f8-bc03-4a5f-8c88-1d0e27d0641c 9cadf426-c69a-430c-8914-70df55192557"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#f5deaa">
-    <bounds
-        x="147"
-        y="877"
-        width="205"
-        height="56"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_id-9fdfa703-6ac3-43db-8d3f-cddaf645ffb6.xml#id-9fdfa703-6ac3-43db-8d3f-cddaf645ffb6"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="10d0c104-1f2c-4bb6-807a-63f502f28243">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="9cadf426-c69a-430c-8914-70df55192557"
-        source="10d0c104-1f2c-4bb6-807a-63f502f28243"
-        target="e6529c20-bc16-41ff-94c2-263d019ef0cc">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_389a535a-4a1f-44c2-a290-9e92d9001dd2.xml#389a535a-4a1f-44c2-a290-9e92d9001dd2"/>
-    </sourceConnections>
     <bounds
         x="147"
         y="949"

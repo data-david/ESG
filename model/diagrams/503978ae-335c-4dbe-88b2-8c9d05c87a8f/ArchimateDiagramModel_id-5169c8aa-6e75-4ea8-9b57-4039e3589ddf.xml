@@ -96,37 +96,11 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="9dcd9656-75c8-4c36-b2de-c3b9423d41c0"
-        source="id-bcbe5c8d-9e86-4ffc-a70d-cdf05c729981"
-        target="id-a644f642-3e08-492f-9416-91f25104f769">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-9619ca24-1b6f-4bb2-a57b-b3d4bc6b22bc.xml#id-9619ca24-1b6f-4bb2-a57b-b3d4bc6b22bc"/>
-    </sourceConnections>
     <bounds
         x="11"
         y="658"
         width="170"
         height="83"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-a644f642-3e08-492f-9416-91f25104f769"
-        targetConnections="9dcd9656-75c8-4c36-b2de-c3b9423d41c0"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#f5deaa">
-      <bounds
-          x="8"
-          y="24"
-          width="154"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:CourseOfAction"
-          href="CourseOfAction_id-9fdfa703-6ac3-43db-8d3f-cddaf645ffb6.xml#id-9fdfa703-6ac3-43db-8d3f-cddaf645ffb6"/>
-    </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-2504d6dc-55fe-4dbd-99ed-e73e0ee06976.xml#id-2504d6dc-55fe-4dbd-99ed-e73e0ee06976"/>

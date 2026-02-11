@@ -44,20 +44,6 @@
       fillColor="#fef729">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="5ef0682f-c1ea-4f86-aa6b-fccfce4006f2"
-        source="44ccaa4f-b074-422e-9d83-41480f9612e3"
-        target="74dbe29a-31a5-461a-a8d8-69896ae007be">
-      <bendpoints
-          startX="150"
-          startY="16"
-          endX="-66"
-          endY="-514"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-856bbf93-8255-46ac-b9a4-bff8813cc737.xml#id-856bbf93-8255-46ac-b9a4-bff8813cc737"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="35b1f8df-9a42-4209-a0d1-3599445d9612"
         source="44ccaa4f-b074-422e-9d83-41480f9612e3"
         target="f1303c03-6bbd-4197-a971-e45c3542e6e5">
@@ -113,20 +99,6 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#fef729">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="2925befd-638b-4b98-98ae-8dab01153310"
-        source="0c7aa1b7-55ba-4773-b925-c8aa5d5bef39"
-        target="74dbe29a-31a5-461a-a8d8-69896ae007be">
-      <bendpoints
-          startX="150"
-          startY="7"
-          endX="-66"
-          endY="-454"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-3a47a0cb-b17b-4e06-97af-91bca100e2c8.xml#id-3a47a0cb-b17b-4e06-97af-91bca100e2c8"/>
-    </sourceConnections>
     <bounds
         x="143"
         y="451"
@@ -165,20 +137,6 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#fef729">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="3de65d11-9006-47b7-9bd3-1097f2306bfa"
-        source="c70d2ecb-515a-469a-9e3e-1f48c4aa0761"
-        target="74dbe29a-31a5-461a-a8d8-69896ae007be">
-      <bendpoints
-          startX="150"
-          startY="4"
-          endX="-66"
-          endY="-382"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-9bf15086-99e2-4fed-9566-635b9ebeee02.xml#id-9bf15086-99e2-4fed-9566-635b9ebeee02"/>
-    </sourceConnections>
     <bounds
         x="144"
         y="523"
@@ -238,20 +196,6 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#fef729">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6198bcb7-013f-4312-960b-3f86dbdee22e"
-        source="c2f72145-c5b2-481f-a5cf-b8cfcccf55f6"
-        target="74dbe29a-31a5-461a-a8d8-69896ae007be">
-      <bendpoints
-          startX="150"
-          startY="15"
-          endX="-66"
-          endY="-286"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-da2f6e50-8658-44cd-8a09-03dc33b4a5ab.xml#id-da2f6e50-8658-44cd-8a09-03dc33b4a5ab"/>
-    </sourceConnections>
     <bounds
         x="143"
         y="598"
@@ -311,29 +255,6 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#fdef2b">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="68d929aa-e167-4e1d-8cff-1ca2b673110a"
-        source="88a1c97b-a53f-4748-ab7f-0e75985595a0"
-        target="74dbe29a-31a5-461a-a8d8-69896ae007be">
-      <bendpoints
-          startX="108"
-          endX="203"
-          endY="-428"/>
-      <bendpoints
-          startX="125"
-          startY="412"
-          endX="151"
-          endY="-178"/>
-      <bendpoints
-          startX="-7"
-          startY="412"
-          endX="19"
-          endY="-178"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-26049651-5f1d-42da-b8a2-d0b964ff31c2.xml#id-26049651-5f1d-42da-b8a2-d0b964ff31c2"/>
-    </sourceConnections>
     <bounds
         x="384"
         y="384"
@@ -372,20 +293,6 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#fef729">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="25631075-c5bd-47fa-b7d4-60f3adae7dbd"
-        source="df952814-57a1-4954-8281-a5d6a0a6df03"
-        target="74dbe29a-31a5-461a-a8d8-69896ae007be">
-      <bendpoints
-          startX="150"
-          startY="38"
-          endX="-65"
-          endY="-226"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-37f050e5-01a1-44d2-a2a5-8ef200e7bf8f.xml#id-37f050e5-01a1-44d2-a2a5-8ef200e7bf8f"/>
-    </sourceConnections>
     <bounds
         x="143"
         y="695"
@@ -491,33 +398,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="74dbe29a-31a5-461a-a8d8-69896ae007be"
-      targetConnections="5ef0682f-c1ea-4f86-aa6b-fccfce4006f2 2925befd-638b-4b98-98ae-8dab01153310 3de65d11-9006-47b7-9bd3-1097f2306bfa 6198bcb7-013f-4312-960b-3f86dbdee22e 68d929aa-e167-4e1d-8cff-1ca2b673110a 25631075-c5bd-47fa-b7d4-60f3adae7dbd 0161452b-5acb-4605-af96-279909055d60"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#f5deaa">
-    <bounds
-        x="359"
-        y="984"
-        width="204"
-        height="46"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_id-9fdfa703-6ac3-43db-8d3f-cddaf645ffb6.xml#id-9fdfa703-6ac3-43db-8d3f-cddaf645ffb6"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="8ea5b384-2372-4e31-9c4e-a8a51b65209b">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="0161452b-5acb-4605-af96-279909055d60"
-        source="8ea5b384-2372-4e31-9c4e-a8a51b65209b"
-        target="74dbe29a-31a5-461a-a8d8-69896ae007be">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_389a535a-4a1f-44c2-a290-9e92d9001dd2.xml#389a535a-4a1f-44c2-a290-9e92d9001dd2"/>
-    </sourceConnections>
     <bounds
         x="358"
         y="1045"

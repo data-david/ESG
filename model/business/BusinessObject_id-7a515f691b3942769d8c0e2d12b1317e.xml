@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="endringslogg intet til utlegg (org.nr)"
-    id="id-7a515f691b3942769d8c0e2d12b1317e"
-    documentation="Api for endringslogg på intet til utlegg/utleggstrekk i Løsøreregisteret kun på organisasjonsnummer for kredittopplysningsforetak. Man gjør oppslag på tidspunkt, 1000 treff per side. Det skal ikke være anledning til å hente ut endringer som er eldre enn 7 dager.&#xA;Produktnummer: 10007"/>
