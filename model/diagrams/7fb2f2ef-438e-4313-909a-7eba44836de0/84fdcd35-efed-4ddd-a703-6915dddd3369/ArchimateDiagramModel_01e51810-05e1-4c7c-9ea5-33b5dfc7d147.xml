@@ -388,30 +388,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="208dbaa4-e64f-4ea8-a2b9-94e083357947"
-      targetConnections="f698a815-14d6-458d-9d9c-8d19842f69f8">
-    <bounds
-        x="1021"
-        y="327"
-        width="200"
-        height="29"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-de6fc90a-db36-4645-b60e-55b8ade1e92c.xml#id-de6fc90a-db36-4645-b60e-55b8ade1e92c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="f98f57a3-7d89-446e-9d8e-08f9d5a811c9"
       targetConnections="d6eaed6e-cc8f-4b74-882d-d85c2d3ef792">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="f698a815-14d6-458d-9d9c-8d19842f69f8"
-        source="f98f57a3-7d89-446e-9d8e-08f9d5a811c9"
-        target="208dbaa4-e64f-4ea8-a2b9-94e083357947">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_f51d82fa-546e-4830-a592-a52e49318e8f.xml#f51d82fa-546e-4830-a592-a52e49318e8f"/>
-    </sourceConnections>
     <bounds
         x="578"
         y="323"
