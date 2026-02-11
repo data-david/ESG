@@ -1059,62 +1059,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="592b60ad-b352-4ce5-8474-649e42fa69c8">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="4ecb5c15-c853-4513-acdf-11f818568615"
-        source="592b60ad-b352-4ce5-8474-649e42fa69c8"
-        target="5216ea7f-0ce1-46d8-8e76-682c8c612034">
-      <bendpoints
-          startX="-90"
-          startY="114"
-          endX="-100"
-          endY="-4"/>
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_b694cf39-a464-471e-8e6c-9774f3a2ea3b.xml#b694cf39-a464-471e-8e6c-9774f3a2ea3b"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d54cdf7b-13f6-42cc-9967-d7237f03e00f"
-        source="592b60ad-b352-4ce5-8474-649e42fa69c8"
-        target="e9d04dd0-e540-4dd4-bdae-b499cf5be8ba">
-      <bendpoints
-          startX="-90"
-          startY="163"
-          endX="-100"
-          endY="3"/>
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_06b6ccde-baa0-4778-a20e-a57ef2f057ba.xml#06b6ccde-baa0-4778-a20e-a57ef2f057ba"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="a69a292a-f927-445a-8215-324a29ba7300"
-        source="592b60ad-b352-4ce5-8474-649e42fa69c8"
-        target="424c8388-8b87-47bd-b6fb-84eb56e3a857">
-      <bendpoints
-          startX="-90"
-          startY="162"
-          endX="-100"
-          endY="-6"/>
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_cef3c47b-efcb-4dad-ba7f-2fe332c9c192.xml#cef3c47b-efcb-4dad-ba7f-2fe332c9c192"/>
-    </sourceConnections>
-    <bounds
-        x="-144"
-        y="-252"
-        width="205"
-        height="131"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_id-9c61fd8d-5c7f-4a8b-8316-2eb6334f3f6b.xml#id-9c61fd8d-5c7f-4a8b-8316-2eb6334f3f6b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="e9d04dd0-e540-4dd4-bdae-b499cf5be8ba"
-      targetConnections="d54cdf7b-13f6-42cc-9967-d7237f03e00f">
+      id="e9d04dd0-e540-4dd4-bdae-b499cf5be8ba">
     <bounds
         x="-124"
         y="-48"
@@ -1126,8 +1071,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="5216ea7f-0ce1-46d8-8e76-682c8c612034"
-      targetConnections="4ecb5c15-c853-4513-acdf-11f818568615">
+      id="5216ea7f-0ce1-46d8-8e76-682c8c612034">
     <bounds
         x="-124"
         y="-122"
@@ -1139,8 +1083,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="424c8388-8b87-47bd-b6fb-84eb56e3a857"
-      targetConnections="a69a292a-f927-445a-8215-324a29ba7300">
+      id="424c8388-8b87-47bd-b6fb-84eb56e3a857">
     <bounds
         x="-124"
         y="-84"

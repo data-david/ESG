@@ -403,24 +403,6 @@
         fillColor="#f5deaa">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="47bdc8fc-de2d-4ce2-80ab-91b8591b8f8e"
-          source="id-3a6ee963-84b7-46da-b74b-db54e26c396d"
-          target="id-50ffb5d0-250f-4411-a140-0cd82a598804">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-372208d7-f124-46cd-a0e1-012831ec00e8.xml#id-372208d7-f124-46cd-a0e1-012831ec00e8"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="870e5a30-393e-411a-8a72-7843a76ec3f9"
-          source="id-3a6ee963-84b7-46da-b74b-db54e26c396d"
-          target="id-e920ccbb-746a-48c8-8420-2f80857c7f69">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-ad12115f-dfa5-44b4-b679-ed89a97b3006.xml#id-ad12115f-dfa5-44b4-b679-ed89a97b3006"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="149ed3e1-1c47-4cfe-818f-13520af2b29f"
           source="id-3a6ee963-84b7-46da-b74b-db54e26c396d"
           target="id-0895b59d-41f5-4a3f-a7ba-102e7e8856ac">
@@ -487,40 +469,6 @@
           y="36"
           width="589"
           height="253"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-50ffb5d0-250f-4411-a140-0cd82a598804"
-          targetConnections="47bdc8fc-de2d-4ce2-80ab-91b8591b8f8e"
-          font="1|Lucida Grande|12.0|0|COCOA|1|"
-          fontColor="#000000"
-          lineColor="#5c5c5c"
-          fillColor="#fbca36">
-        <bounds
-            x="11"
-            y="180"
-            width="182"
-            height="61"/>
-        <archimateElement
-            xsi:type="archimate:Capability"
-            href="Capability_id-76bbf43f-ac4a-40ec-836f-3667078c62df.xml#id-76bbf43f-ac4a-40ec-836f-3667078c62df"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-e920ccbb-746a-48c8-8420-2f80857c7f69"
-          targetConnections="870e5a30-393e-411a-8a72-7843a76ec3f9"
-          font="1|Lucida Grande|12.0|0|COCOA|1|"
-          fontColor="#000000"
-          lineColor="#5c5c5c"
-          fillColor="#fbca36">
-        <bounds
-            x="11"
-            y="108"
-            width="181"
-            height="61"/>
-        <archimateElement
-            xsi:type="archimate:Capability"
-            href="Capability_id-491ab572-8458-4d5d-b677-06aff23b1a86.xml#id-491ab572-8458-4d5d-b677-06aff23b1a86"/>
-      </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0895b59d-41f5-4a3f-a7ba-102e7e8856ac"

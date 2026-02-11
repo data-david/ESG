@@ -1227,32 +1227,11 @@
         id="5aca4696-7dd1-4f02-8a8d-7aa5748496cf"
         source="0ddbbd42-e1ec-4c05-bd60-44a6329c0331"
         target="1fb044c2-688c-48cf-b5de-e19338bca20c"/>
-    <sourceConnections
-        id="a0dcaf3a-7c10-492a-9086-22206090d8eb"
-        source="0ddbbd42-e1ec-4c05-bd60-44a6329c0331"
-        target="4945b06d-ac54-4bab-9530-755c4e1395d8"/>
     <bounds
         x="1176"
         y="-107"
         width="201"
         height="48"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="4945b06d-ac54-4bab-9530-755c4e1395d8"
-      targetConnections="a0dcaf3a-7c10-492a-9086-22206090d8eb"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#f5deaa">
-    <bounds
-        x="1416"
-        y="-108"
-        width="221"
-        height="73"/>
-    <archimateElement
-        xsi:type="archimate:CourseOfAction"
-        href="CourseOfAction_id-7c56dfc1-faaf-4955-9c59-74a9dc15a442.xml#id-7c56dfc1-faaf-4955-9c59-74a9dc15a442"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
