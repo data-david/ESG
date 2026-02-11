@@ -5,22 +5,6 @@
     id="c99bd261-c3f1-4dd8-a6ed-93b363855670">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="eedaa2d6-db08-4ff4-b88e-5ca9a3618273"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ffffb5">
-    <bounds
-        x="73"
-        y="60"
-        width="209"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-47a79694-c1e0-4bf7-a024-98f15d69f9f8.xml#id-47a79694-c1e0-4bf7-a024-98f15d69f9f8"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="3ec23d79-ed8c-47d7-bb0b-063c7e79b4ae"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
@@ -76,22 +60,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="0abb65e8-00db-4c54-8460-01ee1367ca77"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ffffb5">
-    <bounds
-        x="73"
-        y="-10"
-        width="209"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-853791ec-4bd5-43f5-9a7a-6197e1851d8d.xml#id-853791ec-4bd5-43f5-9a7a-6197e1851d8d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="63c4ac43-6bba-4c42-b72d-cc4f7ea0f173">
     <bounds
         x="75"
@@ -113,18 +81,6 @@
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_bce425f7-3aff-4339-a494-b99963e65be6.xml#bce425f7-3aff-4339-a494-b99963e65be6"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="458708d1-f305-4c2a-8037-33cc90c29bdd">
-    <bounds
-        x="73"
-        y="252"
-        width="210"
-        height="37"/>
-    <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-66448796.xml#id-66448796"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
